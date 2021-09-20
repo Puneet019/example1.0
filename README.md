@@ -10,7 +10,7 @@ int main() {
         cout<<"False"<<endl;
         return -1;
     }
-    if(a%5==0){
+    if(a%2==0){
         cout<<"true";
     }
     else{
