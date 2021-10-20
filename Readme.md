@@ -1,2 +1,2 @@
 # demo 
-# example  to demonstrate true and false statement .
+# example  to demonstrate if and else statement .
