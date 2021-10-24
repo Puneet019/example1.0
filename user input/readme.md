@@ -5,3 +5,5 @@
          cin is pronounced "see-in" and uses the extraction operator (>>).
          
   ![C-basic-input-output](https://user-images.githubusercontent.com/90840992/138595607-04b814c8-4ff7-4fe7-96aa-9bbbb2d2e21a.png)
+ 
+ source : GeeksForGeeks
