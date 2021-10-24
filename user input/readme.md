@@ -4,5 +4,4 @@
  NOTE :- cout is pronounced "see-out" and uses the insertion operator (<<).
          cin is pronounced "see-in" and uses the extraction operator (>>).
          
-         ![C-basic-input-output](https://user-images.githubusercontent.com/90840992/138595520-e896ffee-fe1c-46e7-9916-07af8c7d1952.png)
- source: GeeksForGeeks
+  ![C-basic-input-output](https://user-images.githubusercontent.com/90840992/138595607-04b814c8-4ff7-4fe7-96aa-9bbbb2d2e21a.png)
