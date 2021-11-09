@@ -1,6 +1,6 @@
 #include <iostream>
 
-using namespace std;
+using namespace std;            // Program to print numbers from 1 to 5
 
 int main() {
     int i = 1; 
