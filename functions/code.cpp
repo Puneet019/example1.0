@@ -8,11 +8,13 @@ int sum(int a, int b){
 
 int main(){
     int num1,num2;
-    cout<<" Enter first number"<<endl;
+    cout<<" Enter first number:"<<endl;
     cin>>num1;
-    cout <<" Enter second number "<<endl;
+    cout <<" Enter second number: "<<endl;
+
     cin>>num2;
-    cout <<"the sum is" <<"  "<< sum(num1,num2)<<endl;
+
+    cout <<"the sum is:" <<"  "<< sum(num1,num2)<<endl;
 
     return 0;
 }
