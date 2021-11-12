@@ -15,3 +15,6 @@ Here are all the parts of a functions −
 * Parameters − A parameter is like a placeholder. When a function is invoked, you pass a value to the parameter. This value is referred to as actual parameter or argument. The parameter list refers to the type, order, and number of the parameters of a function. Parameters are optional; that is, a function may contain no parameters.
 
 * Function Body − The function body contains a collection of statements that define what the function does.
+
+![Function-Prototype-in-c](https://user-images.githubusercontent.com/90840992/141486833-6c433318-5b0f-45cf-829c-426574eb4719.png)
+* Source of Image : [GeeksForGeeks](https://www.geeksforgeeks.org/functions-in-c/)
