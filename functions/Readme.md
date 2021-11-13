@@ -3,9 +3,7 @@
 C++ provides some pre-defined functions, such as ``` main()``` , which is used to execute code. But you can also create your own functions to perform certain actions.
 A C++ function definition consists of a function header and a function body. 
 
-``` bash
-Here are all the parts of a functions −
-```
+### Here are all the parts of a functions −
 
 
 * Return Type − A function may return a value. The return_type is the data type of the value the function returns. Some functions perform the desired operations without returning a value. In this case, the return_type is the keyword void.
