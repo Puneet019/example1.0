@@ -18,3 +18,5 @@ switch(expression) {
              // code 
              }
 ```
+![switch](https://user-images.githubusercontent.com/90840992/141799789-053c9776-2977-4cd3-8ec8-ef5d687357c6.png)
+* Source of Image : [GeeksForGeeks](https://www.geeksforgeeks.org/switch-statement-cc/)
