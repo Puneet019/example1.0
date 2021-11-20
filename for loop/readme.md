@@ -9,4 +9,4 @@ for ( init; condition; increment ) {
 
 ![For-Loop](https://user-images.githubusercontent.com/90840992/139287008-dc4e514b-3318-487d-a41b-77a752d95bed.jpg)
 
-source of image  : GeeksForGeeks
+source of image  : [GeeksForGeeks](https://www.geeksforgeeks.org/c-c-for-loop-with-examples/)
