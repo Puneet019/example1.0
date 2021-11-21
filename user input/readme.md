@@ -8,4 +8,4 @@ In this code, cout is used to output (print) values and cin is to get user input
          
      ![C-basic-input-output](https://user-images.githubusercontent.com/90840992/138595607-04b814c8-4ff7-4fe7-96aa-9bbbb2d2e21a.png)
  
-*  source of image :  GeeksForGeeks
+*  source of image :  [GeeksForGeeks](https://www.geeksforgeeks.org/basic-input-output-c/)
