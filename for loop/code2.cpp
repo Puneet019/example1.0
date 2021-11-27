@@ -1,5 +1,5 @@
 #include<iostream>
-using namespace std;       // program using for loop
+using namespace std;       
 
 int main(){
 
