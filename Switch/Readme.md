@@ -4,7 +4,7 @@
 
       When the variable being switched on is equal to a case, the statements following that case will execute until a break statement is reached.
  
-   A switch statement can have an optional default case, which must appear at the end of the switch
+   A ```switch statement``` can have an optional default case, which must appear at the end of the switch
 * Synatax : 
 ```bash
 switch(expression) {
