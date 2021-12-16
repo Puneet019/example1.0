@@ -6,4 +6,4 @@ In this code we :
  
  ![If-else-statement-GeeksforGeeks1](https://user-images.githubusercontent.com/90840992/139098170-b5fe7a3e-1c33-4e84-bca9-2d6be23f99e3.jpg)
 
-* source of Image : GeeksForGeeks
+* source of Image : [GeeksForGeeks](https://www.geeksforgeeks.org/c-c-if-else-statement-with-examples/)
