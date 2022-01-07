@@ -10,7 +10,9 @@ int main(){
         cout<<n<<endl;
         cin>>n;
     }
+    
 
+    
     return 0;
 }
 
